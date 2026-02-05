@@ -1,6 +1,6 @@
 # Cursor Website Clone
 
-### [Live Demo Link]
+### [Live Demo Link](https://cursor-clone-kappa.vercel.app/)
 
 ## Project Overview
 This is a desktop-first clone of the **Cursor.com** landing page. I built this for the **Web Dev Cohort 2026** using only pure HTML and CSS to practice layout accuracy and visual hierarchy without using any frameworks.
